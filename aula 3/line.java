@@ -9,5 +9,4 @@ public class Projeto1 {
         seuNome = teclado.nextLine();
         System.out.println("Olá " + seuNome + ".");
     }
-    
 }
