@@ -1,3 +1,7 @@
+/*Ler o valor da variavel tabuada(int) crair um laço de repetição para exibir o numero de 1 a 10 a ser multiplicado pela variavel tabuada
+a cada linha deve ser lido a variavel resultado e s eo valor digitado for correto exibir CORRETO senao ERRADO, no fim imprimir os acertos
+e erros obtidos*/
+
 package tabuada;
 import java.util.Scanner;
 public class Tabuada {

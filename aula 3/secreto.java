@@ -1,3 +1,7 @@
+/*Criar 3 variaveis inteiras segredo, numero e tentativas, ler o valor de segredo, criar um laço de repetição 
+para ler a variavel numero e so terminar quando o numero for igual segredo no fim o programa deve exibir o numero 
+de tentativas usadas  */
+
 package adivinhacao;
 import java.util.Scanner;
 
