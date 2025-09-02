@@ -8,7 +8,7 @@ public class ParImpar {
         System.out.println("Digite o tamanho do vetor:");
         tamanho = teclado.nextInt();
         int[] numero = new int[tamanho];
-        System.out.println("Digite os número para o vetor:");
+        System.out.println("Digite os nÃºmero para o vetor:");
         for(int i=0; i < tamanho; i++){
             numero[i] = teclado.nextInt();
             if(numero[i]%2==0){
@@ -36,11 +36,11 @@ public class ParImpar {
         }
         System.out.println("Pares: ");
         for(int j=0; j < par.length; j++){
-            System.out.println(par[j]);
+            System.out.println("Indice: "+j+par[j]);
         }
         System.out.println("Impares: ");
         for(int x=0; x <impar.length; x++){
-            System.out.println(impar[x]);
+            System.out.println("Indice: "+x+impar[x]);
         }
     }
     
